@@ -1,0 +1,1 @@
+export const SOLANA_RPC_URL = "https://autumn-sly-hill.solana-mainnet.discover.quiknode.pro/083b4e1da9b9df3bebf182f949aa0f6cdf401bbd/";
